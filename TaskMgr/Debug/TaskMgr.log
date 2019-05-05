@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  TaskMgrDlg.cpp
+  TaskMgr.cpp
+  MyTabCtrl.cpp
+  FileControl.cpp
+  FileClean.cpp
+e:\编程项目\任务管理器\taskmgr\taskmgr\fileclean.cpp(17): warning C4129: “.”: 不可识别的字符转义序列
+  Dia_Status.cpp
+  Dia_WinProcess.cpp
+  Dia_Thread.cpp
+  Dia_Mod.cpp
+  Dia_Heap.cpp
+  Dia_Details.cpp
+  正在生成代码...
+  TaskMgr.vcxproj -> E:\编程项目\任务管理器\TaskMgr\Debug\TaskMgr.exe
+  TaskMgr.vcxproj -> E:\编程项目\任务管理器\TaskMgr\Debug\TaskMgr.pdb (Full PDB)
